@@ -1,6 +1,5 @@
 # Happy Path Output
 
-```
 Tool call detected: [{'function': {'name': 'read_file', 'arguments': {'path': './main.py'}}}]
 The code snippet provided is written in Python and is using a library named `ollama` to interact with a language model. Here's a breakdown of what the code does:
 
@@ -31,4 +30,3 @@ The code snippet provided is written in Python and is using a library named `oll
    - `print(...)`: This prints the content of the AI model's response to the console.
 
 In summary, the code sends a question about why the sky is blue to an AI model using the `ollama` library and then prints the AI model's response to the console.
-```
